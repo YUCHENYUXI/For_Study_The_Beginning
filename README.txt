@@ -1,5 +1,1 @@
-11111
-222222222
-3333333333
-4444444
-666666
+This is a demo for both study and store codes.
